@@ -37,6 +37,6 @@ public class Ex16 {
             sum += d;
         }
 
-        return values.length == 0 ? sum : sum / (values.length + 1);
+        return (values.length == 0) ? sum : (sum / (values.length + 1));
     }
 }

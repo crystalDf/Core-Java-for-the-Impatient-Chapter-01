@@ -13,7 +13,7 @@ public class Ex02 {
 
         int input = in.nextInt();
 
-        System.out.println("% " + input % 365 + "°");
-        System.out.println("floorMod " + Math.floorMod(input, 365) + "°");
+        System.out.println("% " + input % 360 + "°");
+        System.out.println("floorMod " + Math.floorMod(input, 360) + "°");
     }
 }
