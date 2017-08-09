@@ -1,4 +1,4 @@
-package ch01.set01;
+package ch01.sec01;
 
 
 public class HelloWorld {
